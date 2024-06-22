@@ -1,6 +1,6 @@
 ![MasterHead](https://r4a-1.lms.deped.gov.ph/moodle/pluginfile.php/836657/course/summary/main-qimg-8e6ef93e1c1c5f23f823481553fc3146.gif)
 <h1 align="center">Hi 👋, I'm Kalyani Uppuluri</h1>
-<h3 align="center">A passionate AI and ML enthusiast from India</h3>
+<h3 align="center">A passionate AI and ML enthusiast!</h3>
 <img align="middle" alt="AI and ML" width="1000" src="https://wallpapercave.com/wp/wp8003206.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uppulurikalyani&label=Profile%20views&color=0e75b6&style=flat" alt="uppulurikalyani" /> </p>
