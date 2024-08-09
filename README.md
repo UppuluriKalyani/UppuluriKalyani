@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **kalyaniuppuluri7@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/c/83b3e87041d45e7d/ER0dc4EEzfxDhhQTGnPqyNsByP7W_6SEJs8O0k6js5n8tw?e=lcE5Xx](https://1drv.ms/w/c/83b3e87041d45e7d/ER0dc4EEzfxDhhQTGnPqyNsByP7W_6SEJs8O0k6js5n8tw?e=lcE5Xx)
-
 - ⚡ Fun fact **Avid coder by day, stargazer by night | Coffee enthusiast | Loves exploring new hiking trails**
 
 <h3 align="left">Connect with me:</h3>
