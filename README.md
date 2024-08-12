@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uppulurikalyani" alt="uppulurikalyani" /></a> </p>
 
-- 🔭 I’m currently working on **GSSOC'24**
-
 - 👯 I’m looking to collaborate on **AI and ML**
 
 - 📫 How to reach me **kalyaniuppuluri7@gmail.com**
