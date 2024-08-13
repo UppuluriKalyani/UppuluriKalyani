@@ -1,7 +1,7 @@
 ![MasterHead](https://r4a-1.lms.deped.gov.ph/moodle/pluginfile.php/836657/course/summary/main-qimg-8e6ef93e1c1c5f23f823481553fc3146.gif)
 <h1 align="center">Hi 👋, I'm Kalyani</h1>
 <h3 align="center">A passionate AI and ML enthusiast!</h3>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.imf.org%2F-%2Fmedia%2FImages%2FIMF%2FFANDD%2Fhero%2F2023%2FDecember%2Fhero-B2B.ashx&tbnid=P7qbIFCtDRr4LM&vet=1&imgrefurl=https%3A%2F%2Fwww.imf.org%2Fen%2FPublications%2Ffandd%2Fissues%2F2023%2F12%2FB2B-Artificial-Intelligence-promise-peril-Tourpe&docid=n5ff9sY8GDCfbM&w=2656&h=1080&itg=1&hl=en-GB&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=056ae84693cae742&shem=abme%2Ctrie" alt="AI and ML">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uppulurikalyani&label=Profile%20views&color=0e75b6&style=flat" alt="uppulurikalyani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uppulurikalyani" alt="uppulurikalyani" /></a> </p>
