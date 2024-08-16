@@ -1,6 +1,6 @@
 ![MasterHead](https://r4a-1.lms.deped.gov.ph/moodle/pluginfile.php/836657/course/summary/main-qimg-8e6ef93e1c1c5f23f823481553fc3146.gif)
 <h1 align="center">Hi 👋, I'm Kalyani</h1>
-<h3 align="center">A passionate AI and ML enthusiast!</h3>
+<h3 align="center">| AI & ML Enthusiast | Passionate Hacker |</h3>
 <p align="center"> <img src="https://gifdb.com/images/high/hacker-you-have-been-hacked-snt8b8zv3tqqm8xa.webp" alt="You have been hacked GIF" width="600" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uppulurikalyani&label=Profile%20views&color=0e75b6&style=flat" alt="uppulurikalyani" /> </p>
 
