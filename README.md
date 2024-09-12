@@ -1,7 +1,7 @@
 ![MasterHead](https://r4a-1.lms.deped.gov.ph/moodle/pluginfile.php/836657/course/summary/main-qimg-8e6ef93e1c1c5f23f823481553fc3146.gif)
 <h1 align="center">Hi 👋, I'm Kalyani</h1>
 <h3 align="center">| AI & ML Enthusiast |</h3>
-<img src="https://github.com/UppuluriKalyani/UppuluriKalyani/blob/main/Ai2.jpg" alt="Artificial Intelligence" style="max-width:100%;">
+<img src="https://github.com/UppuluriKalyani/UppuluriKalyani/blob/main/Ai2.jpg" alt="Artificial Intelligence", postion="left", style="max-width:100%;">
 
 <img src="https://github.com/UppuluriKalyani/UppuluriKalyani/blob/main/Ai3.jpg?raw=true" alt="AI" style="max-width:100%;">
 
