@@ -3,6 +3,10 @@
 <h3 align="center">| AI & ML Enthusiast |</h3>
 <img src="https://github.com/UppuluriKalyani/UppuluriKalyani/blob/main/Ai2.jpg?raw=true" alt="Artificial Intelligence" style="max-width:100%;">
 
+src="https://github.com/UppuluriKalyani/UppuluriKalyani/blob/main/Ai3.jpg?raw=true" alt="Artificial Intelligence" style="max-width:100%;">
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uppulurikalyani&label=Profile%20views&color=0e75b6&style=flat" alt="uppulurikalyani" /> </p>
 
 <h3 align="left">Trophies🏆</h3>
