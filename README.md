@@ -7,7 +7,7 @@
 
 # About Me 👀💦
 
-Hi! I'm **Uppuluri Kalyani**, a passionate **Tech Enthusiast** with a strong interest in **machine learning**, **AI**, and **web development**. I enjoy working on innovative projects that combine technology with creativity. Some of my work includes building virtual try-on systems, contributing to open-source, and developing ML-based applications.
+Hi! I'm **Uppuluri Kalyani**, a passionate **Tech Enthusiast** with a strong interest in **machine learning**, **AI**, and **web development**. I enjoy working on innovative projects that combine technology with creativity. Some of my work includes contributing to open-source, and developing ML-based applications.
 
 I'm always eager to learn and collaborate with others in the tech community. Feel free to explore my repositories and join me on my coding journey!
 - 👯 I’m looking to collaborate on *AI and ML*
