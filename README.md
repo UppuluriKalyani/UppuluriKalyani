@@ -43,16 +43,19 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
+ 
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=UppuluriKalyani&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UppuluriKalyani&theme=monokai">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UppuluriKalyani&theme=monokai">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UppuluriKalyani&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UppuluriKalyani&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UppuluriKalyani&theme=tokyonight">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UppuluriKalyani&theme=dark">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UppuluriKalyani&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=UppuluriKalyani&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UppuluriKalyani&theme=tokyonight&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=UppuluriKalyani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=UppuluriKalyani&theme=radical">
 </div><br>
