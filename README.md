@@ -17,10 +17,9 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 - ⚡ Fun fact *Avid coder by day, stargazer by night | Coffee enthusiast | Loves exploring new hiking trails*
 
  # 🏆 Trophies
+ 
+![](https://github-profile-trophy.vercel.app/?username=UppuluriKalyani&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=UppuluriKalyani&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
-</div>
 
 # Connect with me🔗
 <p align="left">
@@ -46,10 +45,10 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UppuluriKalyani&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UppuluriKalyani&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UppuluriKalyani&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UppuluriKalyani&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UppuluriKalyani&theme=monokai">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UppuluriKalyani&theme=monokai">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UppuluriKalyani&theme=tokyonight">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UppuluriKalyani&theme=dark">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UppuluriKalyani&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=UppuluriKalyani&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=UppuluriKalyani&theme=radical">
