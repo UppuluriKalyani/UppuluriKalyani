@@ -1,13 +1,10 @@
-![MasterHead](https://r4a-1.lms.deped.gov.ph/moodle/pluginfile.php/836657/course/summary/main-qimg-8e6ef93e1c1c5f23f823481553fc3146.gif)
-<h1 align="center">Hi 👋, I'm Kalyani</h1>
-<h3 align="center">| AI & ML Enthusiast |</h3>
-<img src="https://github.com/UppuluriKalyani/UppuluriKalyani/blob/main/AI.jpg?raw=true" alt="AI" style="max-width:100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uppulurikalyani&label=Profile%20views&color=0e75b6&style=flat" alt="uppulurikalyani" /> </p>
-
-### About Me 👀💦
+## Greetings, crew!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
+<img src="https://en.bloggif.com/tmp/42699f0dc8455df782acd5f2e2d9c3c3/text.gif?1728111767" width="590px" height="60px">
 
 Hi! I'm **Uppuluri Kalyani**, a passionate **Tech Enthusiast** with a strong interest in **machine learning**, **AI**, and **web development**. I enjoy working on innovative projects that combine technology with creativity. Some of my work includes contributing to open-source, and developing ML-based applications.
+<img align="right" img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="210px">
 
 I'm always eager to learn and collaborate with others in the tech community. Feel free to explore my repositories and join me on my coding journey!
 - 👯 I’m looking to collaborate on *AI and ML*
@@ -16,19 +13,32 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 
 - ⚡ Fun fact *Avid coder by day, stargazer by night | Coffee enthusiast | Loves exploring new hiking trails*
 
- ### 🏆 Trophies
- 
-![](https://github-profile-trophy.vercel.app/?username=UppuluriKalyani&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+ <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
 
 
-### Connect with me🔗
-<p align="left">
-<a href="https://linkedin.com/in/uppuluri-kalyani-522419257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uppuluri-kalyani-522419257/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kalyanicse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kalyanicse" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kalyaniuppuluri7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalyaniuppuluri7" height="30" width="40" /></a>
-<a href="https://twitter.com/_Kalyaniangel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalyani" height="30" width="40" /></a>
-<a href="https://instagram.com/kalyani_arwenundomiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalyani" height="30" width="40" /></a>
-</p>
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/akshitagupta15june/lane_detection_opencv"><b>🚀 ML-Nexus</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/UppuluriKalyani/ML-Nexus?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/UppuluriKalyani/ML-Nexus?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/UppuluriKalyani/ML-Nexus?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UppuluriKalyani/ML-Nexus?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/UppuluriKalyani/ML-Nexus?style=flat-square"/></td>
+      </tr>
+      </tbody>
+  </table>
 
 
 ### Languages and Tools🔧
@@ -44,7 +54,16 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
  
 </div>
- 
+
+ ### Connect with me🔗
+<p align="left">
+<a href="https://linkedin.com/in/uppuluri-kalyani-522419257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uppuluri-kalyani-522419257/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kalyanicse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kalyanicse" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kalyaniuppuluri7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalyaniuppuluri7" height="30" width="40" /></a>
+<a href="https://twitter.com/_Kalyaniangel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalyani" height="30" width="40" /></a>
+<a href="https://instagram.com/kalyani_arwenundomiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalyani" height="30" width="40" /></a>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UppuluriKalyani&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -60,3 +79,4 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=UppuluriKalyani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=UppuluriKalyani&theme=radical">
 </div><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
