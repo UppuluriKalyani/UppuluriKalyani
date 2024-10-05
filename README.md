@@ -12,10 +12,9 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 - 📫 How to reach me *kalyaniuppuluri7@gmail.com*
 
 - ⚡ Fun fact *Avid coder by day, stargazer by night | Coffee enthusiast | Loves exploring new hiking trails*
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=UppuluriKalyani&color=red" alt="Total Github views" />
+	
  <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
-
-
   <br />
   <table>
     <thead align="center">
