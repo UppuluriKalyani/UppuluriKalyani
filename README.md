@@ -13,9 +13,9 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 
 - ⚡ Fun fact *Avid coder by day, stargazer by night | Coffee enthusiast | Loves exploring new hiking trails*
 <p align="left"><img src="https://komarev.com/ghpvc/?username=UppuluriKalyani&color=red" alt="Total Github views" />
-	
- <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
-  <br />
+
+ <h2 align='center'><i>🥇 Open Source Projects open for contributions.</i></h2>
+<div align="center">
   <table>
     <thead align="center">
       <tr border: none;>
@@ -29,18 +29,20 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/akshitagupta15june/lane_detection_opencv"><b>🚀 ML-Nexus</b></a></td>
+	      <td><a href="https://github.com/UppuluriKalyani/ML-Nexus"><b>🚀 ML-Nexus</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/UppuluriKalyani/ML-Nexus?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/UppuluriKalyani/ML-Nexus?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/UppuluriKalyani/ML-Nexus?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UppuluriKalyani/ML-Nexus?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/UppuluriKalyani/ML-Nexus?style=flat-square"/></td>
       </tr>
-      </tbody>
+    </tbody>
   </table>
-
+</div>
 <br>
-<h3> Languages, Tools and Technologies 🚀 </h3>
+
+<div align="center">
+<h2 align='center'><i>Languages, Tools and Technologies 🚀 </i></h2>
 <table>
 	<tr>
 		<td><strong>Programming Languages</strong></td>
@@ -79,12 +81,12 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 		</td>
 	</tr>
 </table>
+</div>
 <br>
+</p>
 
 
-
-<h3>GSSoC(24) Badges 🪶</h3>
-
+<h2 align='center'><i>GSSOC(24) Badges🎖️</i></h2>
 <table align="center">
   <tr>
     <td><a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /></a></td>
@@ -97,7 +99,7 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 </table>
 
 
-### Connect with me 🔗
+<h2 align='center'><i>Connect with me 🔗</i></h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/uppuluri-kalyani-522419257/" target="_blank">
@@ -120,9 +122,16 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
   </a>
 </p>
 
+<h2 align='center'><i>Activity Graph📈</i></h2>
 
-### Contribution Graph📈
 [![Kalyani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UppuluriKalyani&theme=react)](https://github.com/UppuluriKalyani/github-readme-activity-graph)
+<h2 align='center'><i>Top Repos</i></h2>
 
+<p align="center">
+<a href="https://github.com/UppuluriKalyani/github-readme-activity-graph">
+	
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=UppuluriKalyani&repo=ML-Nexus&theme=react&hide_border=true" height="185">
+</a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
