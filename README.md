@@ -105,6 +105,10 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 <a href="https://instagram.com/kalyani_arwenundomiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalyani" height="30" width="40" /></a>
 </p>
 
+
+### 📊 GitHub Stats
+[![Kalyani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UppuluriKalyani&theme=react)](https://github.com/UppuluriKalyani/github-readme-activity-graph)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UppuluriKalyani&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
