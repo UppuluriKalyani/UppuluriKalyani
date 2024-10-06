@@ -96,32 +96,33 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
   </tr>
 </table>
 
- ### Connect with me🔗
-<p align="left">
-<a href="https://linkedin.com/in/uppuluri-kalyani-522419257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uppuluri-kalyani-522419257/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kalyanicse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kalyanicse" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kalyaniuppuluri7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalyaniuppuluri7" height="30" width="40" /></a>
-<a href="https://twitter.com/_Kalyaniangel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalyani" height="30" width="40" /></a>
-<a href="https://instagram.com/kalyani_arwenundomiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalyani" height="30" width="40" /></a>
+
+### Connect with me 🔗
+
+<p align="center">
+  <a href="https://linkedin.com/in/uppuluri-kalyani-522419257/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/kalyanicse" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="40" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/kalyaniuppuluri7" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" height="40" width="40"/>
+  </a>
+  <a href="https://twitter.com/_Kalyaniangel_" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40"/>
+  </a>
+  <a href="https://instagram.com/kalyani_arwenundomiel" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40"/>
+  </a>
+  <a href="mailto:kalyaniuppuluri7@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" height="40" width="40"/>
+  </a>
 </p>
 
 
-### 📊 GitHub Stats
+### Contribution Graph📈
 [![Kalyani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UppuluriKalyani&theme=react)](https://github.com/UppuluriKalyani/github-readme-activity-graph)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UppuluriKalyani&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 📊 GitHub Stats:
-
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UppuluriKalyani&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UppuluriKalyani&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UppuluriKalyani&theme=tokyonight">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UppuluriKalyani&theme=dark">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UppuluriKalyani&theme=tokyonight&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=UppuluriKalyani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=UppuluriKalyani&theme=radical">
-</div><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
