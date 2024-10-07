@@ -98,29 +98,42 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
   </tr>
 </table>
 
+<h2 align="center"><i>Connect with me 🔗</i></h2>
 
-<h2 align='center'><i>Connect with me 🔗</i></h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/uppuluri-kalyani-522419257/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/kalyanicse" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="40" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/kalyaniuppuluri7" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" height="40" width="40"/>
-  </a>
-  <a href="https://twitter.com/_Kalyaniangel_" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40"/>
-  </a>
-  <a href="https://instagram.com/kalyani_arwenundomiel" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40"/>
-  </a>
-  <a href="mailto:kalyaniuppuluri7@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" height="40" width="40"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/uppuluri-kalyani-522419257/" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/kalyanicse" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="40" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/kalyaniuppuluri7" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" height="40" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/_Kalyaniangel_" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/kalyani_arwenundomiel" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:kalyaniuppuluri7@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" height="40" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align='center'><i>Activity Graph📈</i></h2>
 
@@ -133,5 +146,25 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UppuluriKalyani&repo=ML-Nexus&theme=react&hide_border=true" height="185">
 </a>
 </p>
+
+<h2 align="center">🔥 Top Contributed Repo & GitHub Streak 🔥</h2>
+
+<table align="center">
+  <tr>
+    <!-- Top Contributed Repo -->
+    <td align="center">
+      <h3>🔝 Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=UppuluriKalyani&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+    </td>
+    <!-- GitHub Streak -->
+    <td align="center">
+      <h3>🔥 GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=UppuluriKalyani&theme=react" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
