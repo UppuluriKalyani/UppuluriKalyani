@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
 
 ## Greetings, crew!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
-<img src="https://en.bloggif.com/tmp/42699f0dc8455df782acd5f2e2d9c3c3/text.gif?1728111767" width="590px" height="60px">
+
 
 Hi! I'm **Uppuluri Kalyani**, a passionate **Tech Enthusiast** with a strong interest in **machine learning**, **AI**, and **web development**. I enjoy working on innovative projects that combine technology with creativity. Some of my work includes contributing to open-source, and developing ML-based applications.
 <img align="right" img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="210px">
