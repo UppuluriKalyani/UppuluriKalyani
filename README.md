@@ -86,8 +86,9 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 </p>
 
 
-<h2 align='center'><i>GSSOC(24) Badges🎖️</i></h2>
+<h2 align='center'><i>Opensource Badges🎖️</i></h2>
 <table align="center">
+<h5 align='center'><i>GSSOC(24) Badges</i></h5>	
   <tr>
     <td><a href="https://gssoc.girlscript.tech/leaderboard"><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /></a></td>
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /></td>
@@ -97,6 +98,9 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></td>
   </tr>
 </table>
+<h5 align='center'><i>hacktoberfest Badges</i></h5>
+
+[![An image of @uppulurikalyani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uppulurikalyani)](https://holopin.io/@uppulurikalyani)
 
 <h2 align="center"><i>Connect with me 🔗</i></h2>
 
