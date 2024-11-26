@@ -151,8 +151,6 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
 </a>
 </p>
 
-<h2 align="center">🔥 Top Contributed Repo & GitHub Streak 🔥</h2>
-
 <table align="center">
   <tr>
     <!-- Top Contributed Repo -->
@@ -167,8 +165,5 @@ I'm always eager to learn and collaborate with others in the tech community. Fee
     </td>
   </tr>
 </table>
-
-
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width=100%, height="auto">
