@@ -95,9 +95,9 @@
   <summary><b>Open Source Work</b></summary>
   <p>
     <img src="https://img.shields.io/badge/ML--Nexus-Contributions-green?style=for-the-badge&logo=github" alt="ML-Nexus Contributions" height="50">
-    <img src="https://img.shields.io/badge/Contributor-ML--Nexus-blue?style=for-the-badge&logo=github" alt="ML-Nexus Admin" height="50">
+    <img src="https://img.shields.io/badge/Admin-ML--Nexus-blue?style=for-the-badge&logo=github" alt="ML-Nexus Admin" height="50">
     <img src="https://img.shields.io/badge/GSSoC--2024-Active-yellow?style=for-the-badge&logo=github" alt="GSSoC 2024 Active" height="50">
-    <img src="https://img.shields.io/badge/GSSoC--2024-Mentor-orange?style=for-the-badge&logo=github" alt="GSSoC 2024 Core-team" height="50">
+    <img src="https://img.shields.io/badge/GSSoC--2024-core team-orange?style=for-the-badge&logo=github" alt="GSSoC 2024 Core-team" height="50">
   </p>
 </details>
 <details>
