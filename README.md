@@ -2,7 +2,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://portfolio-kalyani.vercel.app/">Portfolio</a> -
+  <a href="https://portfolio-kalyanivercel.app/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/uppuluri-kalyani-522419257/">LinkedIn</a> - 
   <a href="https://twitter.com/_Kalyaniangel_">Twitter</a> -
   <a href="https://github.com/UppuluriKalyani">GitHub</a> -
