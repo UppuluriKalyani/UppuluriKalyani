@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Uppuluri Kalyani! 🌟</h1>
+<h1 align="center">Hello, I'm Kalyani! 🌟</h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
