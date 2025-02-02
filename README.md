@@ -11,6 +11,8 @@
 
 -----------------------------------------------------------
 
+**🔹 About Me**
+
 - Open-source contributor and ML developer
 
 - Passionate about AI, NLP, and deep learning
